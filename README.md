@@ -101,11 +101,3 @@ I care about writing clean code, building interfaces that feel effortless to use
 
 </div>
 
-
-<br/>
-
-<div align="center">
-
-*Thanks for stopping by — always open to connecting on interesting projects.*
-
-</div>
