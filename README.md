@@ -7,7 +7,7 @@ I build **responsive, modern, and scalable** websites and web applications — c
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=6366f1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=usmanyounas-dev&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -98,6 +98,8 @@ I care about writing clean code, building interfaces that feel effortless to use
 <div align="center">
 
 *Thanks for stopping by — always open to connecting on interesting projects.*
+
+</div>
 
 </div>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
