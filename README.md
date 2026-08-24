@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Usman 👋
+# Hi, I'm Usman Younas 
 ### Full Stack Web Developer
 
-I build **responsive, modern, and scalable** websites and web applications — combining clean frontend experiences with reliable backend systems and thoughtful UI/UX design.
+I build **responsive, modern, and scalable** websites and web applications combining clean frontend experiences with reliable backend systems and thoughtful UI/UX design.
 
 <br/>
 
@@ -15,7 +15,7 @@ I build **responsive, modern, and scalable** websites and web applications — c
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Web Developer passionate about turning ideas into fast, functional, and user-friendly digital products. My work spans the entire development cycle — from designing intuitive interfaces in Figma to building responsive frontends and powering them with solid PHP/MySQL backends.
+I'm a Full Stack Web Developer passionate about turning ideas into fast, functional, and user-friendly digital products. My work spans the entire development cycle  from designing intuitive interfaces in Figma to building responsive frontends and powering them with solid PHP/MySQL backends.
 
 I care about writing clean code, building interfaces that feel effortless to use, and delivering web applications that are genuinely scalable — not just for launch day, but for growth.
 
@@ -101,11 +101,6 @@ I care about writing clean code, building interfaces that feel effortless to use
 
 </div>
 
-</div>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
-
-</div>
 
 <br/>
 
